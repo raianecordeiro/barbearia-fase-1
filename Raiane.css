@@ -1,15 +1,19 @@
 body {
     background: #CCCCCC
 }
-
-h1{
+#banner}
+   width: 100%;
+}
+h1 {
     text-aling: center 
 }
 
 p{
     text-alingn: center; 
 } 
-
-em strong{
-     color: blue 
+#missao {
+    font-size: 20px
+}
+em strong {
+     color: #FF0000; 
 }
